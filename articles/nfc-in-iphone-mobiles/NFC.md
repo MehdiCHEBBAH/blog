@@ -50,7 +50,7 @@ NFC devices work on one of the three following modes:
 | :----------------------------------------------------------: |
 | How does NFC works [[Source](https://www.microcontrollertips.com/programming-automation-using-nfc-tags-faq/)] |
 
-NFC is based on RFID (Radio Frequency Identification) technology, that has already been around for decades, it’s the technology used to allow you to access an office building or hotel room using a key card.
+NFC is based on RFID (Radio Frequency Identification) technology, that has already been around for decades, it's the technology used to allow you to access an office building or hotel room using a key card.
 
 NFC works as follows:
 
@@ -86,11 +86,11 @@ NFC has a wide rang of use-cases, here are few of them:
 + **Identity and access tokens**: NFC-enabled devices can act as electronic identity documents found in Passports and ID cards.
 + **Smartphone automation**: Reading NFC tags using a smartphone can allow a change of phone settings, texting, app launching, or command execution.
 + **Gaming**: Nintendo for example uses the technology to connect physical toys with video games. 
-+ **Home automation**: Some smart home platforms, including Home Assistant and Apple’s HomeKit, use NFC tags to control devices or automation.
++ **Home automation**: Some smart home platforms, including Home Assistant and Apple's HomeKit, use NFC tags to control devices or automation.
 
 # iPhones and NFC
 
-Apple started including a NFC chip in its iPhone phones in 2014 starting form **iPhone 6** which was the Apple’s first released phone that supports NFC. The following table summarizes NFC support in all iPhone phones [[Source](https://www.digitalcitizen.life/iphone-nfc/)]:
+Apple started including a NFC chip in its iPhone phones in 2014 starting form **iPhone 6** which was the Apple's first released phone that supports NFC. The following table summarizes NFC support in all iPhone phones [[Source](https://www.digitalcitizen.life/iphone-nfc/)]:
 
 | iPhone                         | NFC chip | Apple Pay NFC support | Read NFC tags | Write NFC tags | Read NFC in Background |
 | ------------------------------ | :------: | :-------------------: | :-----------: | :------------: | :--------------------: |
@@ -108,7 +108,7 @@ By the way, all iPhone phones that are using iOS 14 or newer and have NFC suppor
 
 # How to use NFC on iPhone 11 ?
 
-Let’s suppose you have an iPhone 11, we know now that it supports NFC, not only that but it supports NFC in the background, what does this means ? This means that you don’t need to activate anything before using it, cool isn’t it! Here is how to use it:
+Let's suppose you have an iPhone 11, we know now that it supports NFC, not only that but it supports NFC in the background, what does this means ? This means that you don't need to activate anything before using it, cool isn't it! Here is how to use it:
 
 + For Peer-to-Peer communication, all you have to do is to tap your iPhone to another device that's NFC-enabled.
 + To read an NFC tag, you simply hold the top back of your iPhone close to the NFC tag, it'll read it and show a notification on the screen.
